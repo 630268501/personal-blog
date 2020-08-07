@@ -1,0 +1,4 @@
+2020-08-07 15:13:11: [0mGET /api/article/alllist [36m304 [0m75.245 ms - -[0m
+2020-08-07 15:13:11: [0mGET /favicon.ico [33m401 [0m1.684 ms - 17[0m
+2020-08-07 15:13:12: [0mGET /api/article/alllist [36m304 [0m28.896 ms - -[0m
+2020-08-07 15:13:12: [0mGET /favicon.ico [33m401 [0m0.728 ms - 17[0m

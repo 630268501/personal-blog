@@ -1,9 +1,8 @@
 module.exports = {
   apps : [{
-    name:'app',
+    name: 'app',
     script: './bin/www',
-    watch: '.',
-    instances: 0,
+    instances: 1,
     autorestart: true,
     watch: true,
     ignore_watch: [ // 不⽤监听的⽂件
@@ -20,7 +19,7 @@ module.exports = {
     env_production: {
       NODE_ENV: 'production'
     }
-  }],
+  },],
 
   deploy : {
     production : {
